@@ -16,7 +16,7 @@ body {
     flex-direction: column;
 }
 
-.margin-one {
+.s-one-rectangle {
     margin-left: 100px;
     margin-right: 100px;
 }
@@ -71,6 +71,10 @@ a {
     align-items: center;
 }
 
+.s-three-rectangle {
+    margin: 50px 150px 50px 150px;
+}
+
 .s-three-text {
     text-align: start;
 }
@@ -85,7 +89,7 @@ a {
     align-items: center;
 }
 
-.bot-rectangle {
+.s-four-rectangle {
     background-color: aquamarine;
     margin: 50px 100px 50px 100px;
     display: flex;
